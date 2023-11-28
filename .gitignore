@@ -252,5 +252,15 @@ charts/*.png
 charts/*.jpg
 charts/*.gif
 
+# Ignore PNG JPG GIF en app
+app/*.png
+app/*.jpg
+app/*.gif
+
+# Ignore PNG JPG GIF en app/imgs
+app/imgs/*.png
+app/imgs/*.jpg
+app/imgs/*.gif
+
 
 # End of https://www.toptal.com/developers/gitignore/api/windows,linux,macos,python
