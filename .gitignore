@@ -247,7 +247,10 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
-# Ingone PNG
- *.png
+# Ignore PNG JPG GIF en charts
+charts/*.png
+charts/*.jpg
+charts/*.gif
+
 
 # End of https://www.toptal.com/developers/gitignore/api/windows,linux,macos,python
